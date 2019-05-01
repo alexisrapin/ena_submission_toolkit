@@ -6,8 +6,8 @@ The scripts allows to rapidely build XML files containing a large number of obje
 
 ## Resources:
 
-* Git clone URL: https://github.com/alexisrapin/ena-submission-toolkit.git
-* Documentation: https://github.com/alexisrapin/ena-submission-toolkit
+* Git clone URL: https://github.com/chuvpne/ena_submission_toolkit.git
+* Documentation: https://github.com/chuvpne/ena_submission_toolkit
 * ENA documentation: https://ena-docs.readthedocs.io/en/latest/programmatic.html
 * License: All files in this repository are provided under the MIT license (See LICENSE.txt for details)
 
