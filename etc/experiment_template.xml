@@ -1,0 +1,23 @@
+   <EXPERIMENT alias="experiment01">
+       <TITLE>Description of the experiment.</TITLE>
+       <STUDY_REF accession="xxx"/>
+       <DESIGN>
+       <DESIGN_DESCRIPTION>bacterial 16S rRNA gene v1-v2 region (F27-R338)</DESIGN_DESCRIPTION>
+           <SAMPLE_DESCRIPTOR refname="sample01"/>
+           <LIBRARY_DESCRIPTOR>
+               <LIBRARY_NAME>LIB01</LIBRARY_NAME>
+               <LIBRARY_STRATEGY>AMPLICON</LIBRARY_STRATEGY>
+               <LIBRARY_SOURCE>METAGENOMIC</LIBRARY_SOURCE>
+               <LIBRARY_SELECTION>PCR</LIBRARY_SELECTION>
+               <LIBRARY_LAYOUT>
+                   <PAIRED NOMINAL_LENGTH="311"/>
+               </LIBRARY_LAYOUT>
+               <LIBRARY_CONSTRUCTION_PROTOCOL>Description of the library construction protocol.</LIBRARY_CONSTRUCTION_PROTOCOL>
+           </LIBRARY_DESCRIPTOR>
+       </DESIGN>
+       <PLATFORM>
+           <ILLUMINA>
+               <INSTRUMENT_MODEL>Illumina MiSeq</INSTRUMENT_MODEL>
+           </ILLUMINA>
+       </PLATFORM>
+   </EXPERIMENT>

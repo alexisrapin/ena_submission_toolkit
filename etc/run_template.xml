@@ -1,0 +1,9 @@
+    <RUN alias="run01" center_name="center">
+        <EXPERIMENT_REF refname="experiment01"/>
+        <DATA_BLOCK>
+            <FILES>
+                <FILE filename="sample01_R1.fastq.gz"/>
+                <FILE filename="sample01_R2.fastq.gz"/>
+            </FILES>
+        </DATA_BLOCK>
+    </RUN>
